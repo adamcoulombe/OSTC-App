@@ -1,0 +1,426 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import "compass/css3";
+@import "../fonts/stylesheet.css";
+@import "../fonts/blank/adobe-blank.css";
+@import "../fonts/glyphs/dist/style.css";
+@import "../fonts/glyphs/dist/variables.scss";
+@import "../fonts/montserrat/stylesheet.css";
+
+
+
+$header-color:#0f2447;
+$light-font:'nexa_lightregular';
+
+$green:#26c155;
+$blue:#1db9cc;
+$orange:#ffb507;
+$purple:#d400ce;
+$red:#ca202b;
+$navy:#0f2447;
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+a:active {
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: $light-font;
+    color: white;
+  background-color: $header-color;
+  overflow: hidden;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+a {
+  color: #F2994B;
+}
+
+.view {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  
+}
+
+.view a {
+  color: white;
+}
+.header {
+  background-color: $header-color;
+  overflow: hidden;
+  position: relative;
+  padding-top: 0.3em;
+
+  @include flex(0);
+  min-height: 4.7em;
+  max-height: 4.7em;
+  h1{
+    font-size: 1.2em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    line-height: 4.3em;
+    vertical-align: middle;
+  }
+  .action {
+    position: absolute;
+    top:50%;
+    margin-top: -0.3em;
+    text-decoration: none;
+    &.align-right {
+      right:0.2em;
+      
+    }
+    &.align-left {
+      left:0.2em;
+      
+    }
+    &.menu-link {
+      font-family: AdobeBlank;
+      // width: 100px;
+      // height: 100px;
+     
+      display: block;
+      &:after{
+          font-family: manitoulin;
+          content:$icon-menu;
+          margin-top: -1.5em;
+          font-size: 1.3em;
+          display: block;
+           padding:0.8em;
+      }
+    }
+
+    &.close-link {
+      font-family: AdobeBlank;
+      display: block;
+      cursor: pointer;
+      &:after{
+          font-family: manitoulin;
+          content:$icon-close;
+          margin-top: -1.5em;
+          font-size: 1.1em;
+          display: block;
+          padding:0.8em;
+      }
+    }
+    &.back-link {
+      font-family: AdobeBlank;
+      display: block;
+      cursor: pointer;
+      &:after{
+          font-family: manitoulin;
+          content:$icon-chevron-left;
+          margin-top: -1.5em;
+          font-size: 1.1em;
+          display: block;
+          padding:0.8em;
+      }
+    }
+  }
+}
+.home {
+  background: #4fdae5;
+}
+/* section#home, section#on-the-boat, section#location {
+  .main {
+    
+    @include display-flex;
+  }
+} */
+.main {
+  @include flex(1);
+  overflow: auto;
+   @include display-flex;
+}
+.on-the-boat {
+  background: #F2994B;
+}
+
+section#home {
+  .list-view {
+    @include flex(1);
+    @include display-flex;
+    @include flex-direction(column);
+    li{
+      height: 33%;
+      @include flex(1);
+      @include flex-direction(column);
+      @include display-flex;
+
+    }
+    a {
+      @include flex(1);
+      @include display-flex;
+      @include justify-content(center);
+      @include align-items(center);  
+      @include flex-direction(column);
+
+      text-transform: uppercase;
+      font-size: 1.9em;
+      text-decoration: none;
+      letter-spacing: 0.08em;
+        position: relative;
+        &:after {
+          font-family: manitoulin;
+          display: block;
+          position: absolute;
+          font-size: 0.7em;
+          top:50%;
+          content:$icon-chevron-right;
+          right:1em;
+          margin-top: -0.5em;
+        }
+      span {
+        display: table-cell;
+        min-height: 100%;
+
+      }
+
+    }
+    .on-the-boat a{
+      background-color: #4fdae5;
+    }
+    .on-the-island a{
+      background-color: #ffaa03;
+    }
+    .in-tobermory a{
+      background-color: #970cb5;
+    }
+  }
+}
+.table-view {
+  width: 100%;
+  @include flex(1);
+  //@include flex-direction(column);
+  @include display-flex;
+  @include flex-wrap(wrap);
+
+  li{
+    @include flex(1 50%);
+    @include display-flex;
+    a {
+      @include flex(1);
+      @include display-flex;
+      @include justify-content(center);
+      @include align-items(center);  
+      @include flex-direction(column);
+      text-transform: uppercase;
+      font-size: 1.3em;
+      letter-spacing: 0.08em;
+      text-decoration: none;
+      span {
+        display: table-cell;
+        min-height: 100%;
+
+      }
+    }
+  }
+}
+section#on-the-boat {
+  li.land a {
+    @include background-image(linear-gradient(to center right, $green, darken($green,15%)));
+  }
+  li.water a {
+    @include background-image(linear-gradient(to center right, $blue, darken(adjust-hue($blue,10),15%)));
+  }
+  li.food a {
+    @include background-image(linear-gradient(to center right, $orange, #ff7200));
+  }
+  li.art a {
+    @include background-image(linear-gradient(to center right, darken($purple,15%), $purple ));
+  }
+  li.culture a {
+    @include background-image(linear-gradient(to center right, $red, darken($red,15%)));
+  }
+  li.map a {
+    background-color: $navy;
+  }
+}
+section#category {  
+  ul {
+    min-width: 100%;
+    max-width: 100%;
+  }
+  li {
+    a {
+      display: block;
+      padding:1em;
+      text-decoration: none;
+     background-color: lighten(desaturate($navy,10%),5%);
+     text-align: left;
+      border-bottom:  1px solid $navy;
+        position: relative;
+        &:after {
+          font-family: manitoulin;
+          display: block;
+          position: absolute;
+          font-size: 0.9em;
+          top:50%;
+          content:$icon-chevron-right;
+          right:1em;
+          margin-top: -0.5em;
+        }
+    }
+  }
+}
+
+section#location {
+  .main > .inner{
+    margin-top: 7em;
+    padding-left: 1em;
+    padding-right: 1em;
+    @include background(
+      linear-gradient(to center right, $orange, #ff7200)
+    );
+    @include flex(1);
+    text-align: left;
+  }
+  li {
+    padding:0.8em;
+    font-size: 0.9em;
+    background-color: #ff4900;
+    border-bottom: 1px solid #ff7002;
+    font-family: montserratregular;
+    text-transform: uppercase;
+  }
+  .description {
+    margin-top: -3em;
+    font-size: 1.2em;
+    font-family: inherit;
+    text-transform: inherit;
+    
+    @include background(
+      linear-gradient(to center right, rgba(#ff8f05,0.86), rgba(#ff4900,0.86))
+    );
+  }
+  a.map-it {
+    background-color: #fff;
+    display: block;
+    color:$navy;
+    @include appearance(none);
+    text-decoration: none;
+    text-align: center;
+    border: 0;
+    min-width: 100%;
+    margin-top: 1em;
+    padding:0.85em;
+    font-size: 1.00em;
+    font-family: montserratregular;
+    text-transform: uppercase;
+  }
+  .header {
+    background-color: transparent;
+  }
+}
+section#location-map {
+  .main {
+    background-color: $navy;
+  }
+  #map {
+    @include flex(1);
+    background-color: #73b5e5;
+    color: $navy;
+    a{
+      color: $navy;
+    }
+  }
+  .location-address {
+    position: absolute;
+    bottom:0;
+    width:100%;
+    z-index: 3;
+    background-color: $navy;
+    text-align: left;
+    padding:1em;
+    font-family: montserratregular;
+    font-size: 0.9em;
+    line-height: 1.1;
+    text-transform: uppercase;
+
+  }
+  a.locate {
+    display: block;
+    background-color: #fff;
+    font-family: AdobeBlank;
+    right: 1em ;
+    float: right;
+    margin-top: -2em;
+    padding:0.7em 0;
+    width: 40px;height: 40px;
+     text-align: center;
+      &:after {
+        font-family: manitoulin;
+        color:$navy;
+        content:$icon-locate;
+        //display: block;
+        //padding:0.2em;
+        padding-right:0.1em;
+        font-size: 1.5em;
+      }
+  }
+}
+
+.leaflet-container {
+  font-family: 'nexa_lightregular';
+  font-size: 0.9em;
+}
+.leaflet-popup-content {
+  margin:0.8em 0.9em;
+  
+}
+.leaflet-popup-content-wrapper {
+  border-radius:3px;
+}
+.leaflet-container .leaflet-control-attribution{
+  background-color: #0a172d;
+
+}
+section#location-map #map .leaflet-control-attribution a {
+  color:#87a3d3;
+}
+.view>section{
+  @include display-flex;
+  @include flex-direction(column);
+  height: 100%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  z-index: 10;
+}
+
+#cache-map {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  z-index: 0;
+  left:-100vw; 
+}
+#status {
+  position: absolute;
+  z-index: 101;
+  bottom:0;
+  padding:0.5em;
+  width: 100vw;
+  background-color: rgba($navy,0.85);
+}

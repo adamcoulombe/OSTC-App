@@ -1,0 +1,15 @@
+<section id="category">
+	<header class="header">
+	<a class="action align-left back-link" data-transition="back">back</a>
+	<h1><%= title %></h1>
+	<a href="#/" class="action align-right menu-link" data-transition="slide-from-top">Menu</a>
+	</header>
+	<div class="main">
+		<ul class="list-view">
+			<% _.each(collection,function(item){ %>
+			<li><a href="#/<%=sectionID %>/<%=categoryID %>/<%=item.id %>" data-transition="forward"><span class="pack"><%=item.title%></span></a></li>
+			<% }); %>
+		</ul>
+
+	</div>
+</section>
