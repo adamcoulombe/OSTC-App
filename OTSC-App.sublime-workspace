@@ -1,0 +1,1237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"currentTransition"
+			],
+			[
+				"op",
+				"opacity	opacity()"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"page-id-",
+				"page-id-1449"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"brr",
+				"border-radius"
+			],
+			[
+				"w",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"m",
+				"miw	min-width"
+			],
+			[
+				"in",
+				"inLeft"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"tt",
+				"tt-l	text-transform: lowercase;"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"img",
+				"imgu	image-url"
+			],
+			[
+				"o",
+				"ovx	overflow-x: ${1:hidden};"
+			],
+			[
+				"ls",
+				"lts	letter-spacing"
+			],
+			[
+				"ma",
+				"m-a	margin: auto;"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sto",
+				"stopArray"
+			],
+			[
+				"wh",
+				"whs-n	white-space: normal;"
+			],
+			[
+				"blue",
+				"blue-active"
+			],
+			[
+				"light",
+				"lighten	Lighten Snippet"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"select",
+				"selectedIndex"
+			],
+			[
+				"selec",
+				"selectedIndex"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"ti",
+				"ti--	text-indent: -9999px;"
+			],
+			[
+				"image",
+				"image-url"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"wit",
+				"white"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bco",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"va",
+				"va-t	vertical-align: top;"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"b",
+				"bg	background"
+			],
+			[
+				"optimo-",
+				"optimo-it"
+			],
+			[
+				"icon",
+				"icon-menu"
+			],
+			[
+				"scr",
+				"scrollTo"
+			],
+			[
+				"touch",
+				"touchstart"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bright-",
+				"bright-blue-active"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"dom",
+				"domClass"
+			],
+			[
+				"ta",
+				"ta-l	text-align: left;"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"br",
+				"bright-blue"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"dar",
+				"dark-blue"
+			],
+			[
+				"s",
+				"siblings"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"base",
+				"base-background-color"
+			],
+			[
+				"bas",
+				"base-background-color"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"lig",
+				"lighten	Lighten Snippet"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"place",
+				"placeholder-text"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"page",
+				"pageWidth"
+			],
+			[
+				"fl",
+				"fl-r	float: right;"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"td",
+				"td-n	text-decoration: none;"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"customS",
+				"customSelectInner"
+			],
+			[
+				"curr",
+				"currentTarget"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"c",
+				"c	color: #${1:000};"
+			],
+			[
+				"wb",
+				"wb-close"
+			],
+			[
+				"cur",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"tr",
+				"trsdu	transition-duration: ${1:time};"
+			],
+			[
+				"white",
+				"whitebox"
+			],
+			[
+				"remo",
+				"removed"
+			],
+			[
+				"calla",
+				"callbacks"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"rela",
+				"relative_assets"
+			],
+			[
+				"ease",
+				"ease-in"
+			],
+			[
+				"eas",
+				"ease-out"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"cla",
+				"classy-persist"
+			],
+			[
+				"cl",
+				"classyCall"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"clas",
+				"classy"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"Boo",
+				"book-font"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"db",
+				"d:b	display:block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"f",
+				"fl	float"
+			],
+			[
+				"d",
+				"d:b	display:block"
+			],
+			[
+				"it",
+				"italic-font"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cle",
+				"clear"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bold",
+				"bold-font"
+			],
+			[
+				"im",
+				"image-set"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 1406,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/js/index.js",
+			"settings":
+			{
+				"buffer_size": 7282,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/* Welcome to Compass.\n * In this file you should write your main styles. (or centralize your imports)\n * Import this file using the following HTML or equivalent:\n * <link href=\"/stylesheets/screen.css\" media=\"screen, projection\" rel=\"stylesheet\" type=\"text/css\" /> */\n\n@import \"compass/reset\";\n@import \"compass/css3\";\n@import \"../fonts/stylesheet.css\";\n\n\n\n$header-color:#0f2447;\n$light-font:'nexa_lightregular';\n\n* {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0,0,0,0);\n}\na:active {\n	-webkit-tap-highlight-color: rgba(0,0,0,0);\n}\n\nbody {\n  margin: 0;\n  padding: 0;\n  font-family: $light-font;\n  color: #333;\n  background-color: $header-color;\n  overflow: hidden;\n}\n\nh1 {\n  font-weight: normal;\n}\n\na {\n  color: #F2994B;\n}\n\n.view {\n  position: absolute;\n  top: 0;\n  right: 0;\n  bottom: 0;\n  left: 0;\n  text-align: center;\n  \n}\n\n.view a {\n  color: white;\n}\n\n.header {\n  background-color: $header-color;\n  overflow: hidden;\n\n  @include flex(0 0);\n  min-height: 4.5em;\n  max-height: 4.5em;\n  h1{\n    font-size: 1.2em;\n    letter-spacing: 0.08em;\n    text-transform: uppercase;\n    line-height: 4.3em;\n    vertical-align: middle;\n  }\n}\n.home {\n  color: white;\n  background: #4fdae5;\n}\n.main {\n  overflow: auto;\n  flex:1;\n  @include display-flex;\n}\n.on-the-boat {\n  color: white;\n  background: #F2994B;\n}\n\nsection#home {\n  .list-view {\n    flex:1;\n    @include display-flex;\n    @include flex-direction(row);\n    li{\n      height: 33%;\n      flex:1;\n      @include flex-direction(row);\n      @include display-flex;\n\n    }\n    a {\n      flex:1;\n      @include display-flex;\n      justify-content: center;\n      align-items: center;  \n      @include flex-direction(row);\n      span {\n        display: block;\n        flex:0;\n\n      }\n\n    }\n  }\n}\n.view>section{\n  @include display-flex;\n  @include flex-direction(row);\n  height: 100%;\n}\n\n.footer {\n  position: fixed;\n  bottom: 0;\n  left: 0;\n  width: 100%;\n  background: white;\n  z-index: 10;\n}",
+			"file": "www/sass/style.scss",
+			"file_size": 2007,
+			"file_write_time": 130810149978890518,
+			"settings":
+			{
+				"buffer_size": 1953,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 222 files for \"display:flex;\"\n\nD:\\git\\OSTC-App\\www\\css\\style.css:\n    4          from line 97 of D:/git/OSTC-App/www/sass/style.scss\n    5  \n    6: 92:       display:flex;\n    7  93: \n    8  94:     }\n    .\n   98    white-space: pre;\n   99    font-family: monospace;\n  100:   content: \"Error: Undefined mixin 'display'.\\A         on line 97 of D:/git/OSTC-App/www/sass/style.scss, in `display'\\A         from line 97 of D:/git/OSTC-App/www/sass/style.scss\\A \\A 92:       display:flex;\\A 93: \\A 94:     }\\A 95:     a {\\A 96:       flex:1;\\A 97:       @include display(flex);\\A 98:       justify-content: center;\\A 99:       align-items: center;  \\A 100:       flex-direction: column;\\A 101:       span {\\A 102:         display: block;\"; }\n  101  \n\nD:\\git\\OSTC-App\\www\\sass\\style.scss:\n   74    overflow: auto;\n   75    flex:1;\n   76:   display:flex;\n   77  }\n   78  .on-the-boat {\n   ..\n   84    .list-view {\n   85      flex:1;\n   86:     display:flex;\n   87      flex-direction: column;\n   88      li{\n   ..\n   90        flex:1;\n   91        flex-direction: column;\n   92:       display:flex;\n   93  \n   94      }\n\n5 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 1150,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "www/html/home.html",
+			"settings":
+			{
+				"buffer_size": 450,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/fonts/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 1004,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/css/index.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"dar",
+				"Snippet: Darken Snippet"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/git/LocateMe/LocateMe/www/config.rb",
+		"/D/git/LocateMe/LocateMe/www/sass/screen.scss",
+		"/D/work/USPS/Real-Mail/Email/package.json",
+		"/D/work/USPS/Real-Mail/Email/Gruntfile.js",
+		"/D/git/LocateMe/TileLayer/www/index.html",
+		"/C/ucf/Renamy/Renamy.jsx",
+		"/C/ucf/Renamy/jsx/Photoshop.jsx",
+		"/D/work/USPS/watch/prototype/count.html",
+		"/D/work/USPS/watch/prototype/count.css",
+		"/D/work/USPS/watch/prototype/watch2.js",
+		"/C/Users/Adam/Scripts/updateAllLinkedSmartObjects.jsx",
+		"/C/Users/Adam/Scripts/SelectParentGroup.jsx",
+		"/C/Users/Adam/Scripts/Find And Select Layers.jsx",
+		"/C/ucf/Renamy/META-INF/signatures.xml",
+		"/C/ucf/Renamy/mimetype",
+		"/C/Users/Adam/Desktop/Renamy/CSXS/manifest.xml",
+		"/C/Users/Adam/Desktop/Renamy/META-INF/signatures.xml",
+		"/C/Users/Adam/Desktop/Renamy/mimetype",
+		"/C/Program Files/Adobe/Adobe Photoshop CC 2014/Presets/Scripts/Find and Select Layers by Font.jsx",
+		"/C/ucf/Renamy/metainfo",
+		"/C/Users/Adam/Scripts/Find and Select Layers by Font.jsx",
+		"/C/Users/Adam/Scripts/MultiExporter.jsx",
+		"/C/Users/Adam/Scripts/Find and Select Layers by Font",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa0.389/maizehomes.client.adam.co",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa0.131/maizehomes.client.adam.co-Mar-2015",
+		"/C/Program Files/Adobe/Adobe Photoshop CC 2014/Presets/Scripts/Export Layers To Files.jsx",
+		"/C/FontForge/fontforge.bat",
+		"/D/git/optimo-wp/jquery.easing.1.3.js",
+		"/D/git/optimo-wp/sidebar.php",
+		"/D/git/optimo-wp/header.php",
+		"/D/git/optimo-wp/sftp-config.json",
+		"/D/git/optimo-wp/functions.php",
+		"/C/Users/Adam/AppData/Local/Temp/fz3temp-1/eventbrite-api.php",
+		"/D/git/optimo-wp/_page-events_old.php",
+		"/D/work/Click2Mail/EDDM/wire/package.json",
+		"/D/git/optimo-wp/page-events.php",
+		"/D/git/optimo-wp/error_log",
+		"/D/autotouch/screenshots/functions.php",
+		"/C/Users/Adam/Downloads/variables.less",
+		"/D/git/eddm-bootstrap/less/media.less",
+		"/D/git/eddm-bootstrap/less/forms.less",
+		"/D/git/eddm-bootstrap/less/buttons.less",
+		"/D/git/eddm-bootstrap/less/badges.less",
+		"/D/git/eddm-bootstrap/less/responsive-utilities.less",
+		"/D/git/eddm-bootstrap/less/variables.less",
+		"/D/git/eddm-bootstrap/less/pagination.less",
+		"/D/git/eddm-bootstrap/less/code.less",
+		"/D/git/eddm-bootstrap/less/input-groups.less",
+		"/D/git/eddm-bootstrap/less/theme.less",
+		"/D/git/optimo-wp/jquery.smooth-scroll.min.js",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/D/git/optimo-wp/intro.html",
+		"/D/git/optimo-wp/index_.php",
+		"/D/git/optimo-wp/footer.php",
+		"/D/git/optimo-wp/dfs-page-template.php",
+		"/D/work/OPTiMO/socius/v2/css/panel.less",
+		"/D/work/OPTiMO/socius/v2/css/style.less",
+		"/D/git/da-website/sass/style.scss",
+		"/D/git/optimo-wp/webinar.htm",
+		"/D/git/USPS-Responsive/config.rb",
+		"/D/work/OPTiMO/socius/v2/css/mixins.less",
+		"/D/work/OPTiMO/socius/v2/css/panel.css",
+		"/D/git/optimo-wp/category-news.php",
+		"/D/git/optimo-wp/blogpagetest.htm",
+		"/D/git/optimo-wp/style.css",
+		"/D/git/optimo-wp/loop.php",
+		"/D/git/optimo-wp/loop-archive.php",
+		"/D/git/optimo-wp/index.php",
+		"/D/git/optimo-wp/category-blog.php",
+		"/D/git/optimo-wp/single.php",
+		"/D/git/optimo-wp/blogpagetestinner.htm",
+		"/D/git/optimo-wp/contact-dfs-form-handler.php",
+		"/D/git/optimo-wp/page-contact-optimo-digital-forensics.php",
+		"/D/git/optimo-wp/archive.php",
+		"/C/Users/Adam/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/D/work/OPTiMO/wp/optimo/functions.php",
+		"/D/work/OPTiMO/wp/optimo/loop-archives.php",
+		"/D/work/OPTiMO/wp/optimo/loop-archive.php",
+		"/D/work/nordlawlodge.com/deals/dealfeed2.php",
+		"/D/git/cfa/js/modernizr-2.6.2.min.js",
+		"/D/lab/photogrid/index2.html",
+		"/D/work/OPTiMO/emergensee/howto/New folder/ios.html",
+		"/D/lab/photogrid/css/style.css",
+		"/D/git/cfa/js/jquery.montage.js",
+		"/D/lab/photogrid/js/jquery.montage.js",
+		"/D/lab/photogrid/css/demo.css",
+		"/C/cygwin/etc/sshd_config",
+		"/C/cygwin/etc/hosts.deny",
+		"/D/lab/slytest/js/script.js",
+		"/D/lab/rtwarner/index.html",
+		"/D/lab/rtwarner/js/script.js",
+		"/D/lab/adamco2014/bower_components/gsap/src/minified/easing/EasePack.min.js",
+		"/D/lab/adamco2014/images/aa.svg",
+		"/D/lab/adamco2014/images/spiel.svg",
+		"/D/lab/adamco2014/svg.html",
+		"/C/Users/Adam/Desktop/aa.svg",
+		"/D/lab/adamco2014/svg",
+		"/D/git/showcase-2013/bower_components/jquery-unveil/README.md",
+		"/D/git/showcase-2013/Adam-Showcase-2013.html",
+		"/F/cgminer/example.conf",
+		"/D/git/optimo-2013/css/style.css",
+		"/D/git/optimo-2013/bower.json",
+		"/D/git/optimo-2013/sass/partials/_mixins.scss",
+		"/D/git/optimo-2013/fonts/optimowebbats/src/_font.scss",
+		"/D/git/optimo-2013/fonts/optimowebbats/_font.scss",
+		"/D/git/optimo-2013/sass/partials/_modules.scss",
+		"/D/git/optimo-2013/sass/partials/_ui.scss",
+		"/D/git/optimo-2013/Gruntfile.js",
+		"/D/git/optimo-2013/bower_components/typed.js/js/typed.js",
+		"/D/git/optimo-2013/bower_components/In-Field-Labels-jQuery-Plugin/lib/jquery.infieldlabel.js",
+		"/D/git/optimo-2013/fonts/optimowebbats/src/fontcustom.yml",
+		"/D/git/optimo-2013/sass/partials/_vars.scss",
+		"/D/git/optimo-2013/js/script.js",
+		"/D/git/optimo-2013/index.html",
+		"/C/Users/Adam/Desktop/Export%20Layout.jsx",
+		"/D/git/optimo-2013/sass/partials/_media.scss",
+		"/D/git/optimo-2013/sass/style.scss",
+		"/C/Program Files (x86)/Adobe/Adobe Illustrator CS5.1/Presets/en_US/Scripts/MultiExporter.jsx",
+		"/C/Program Files (x86)/Adobe/Adobe Illustrator CS5.1/Presets/en_US/Scripts/MultiExporter-v2.jsx",
+		"/C/Users/Adam/AppData/Local/Temp/Rar$DRa0.163/layerSet2Pdfs.jsx",
+		"/D/work/PennDOT/ios7/iOS7 Redesign.indd",
+		"/D/git/optimo-2013/bower_components/typed/Readme.md",
+		"/D/git/optimo-2013/bower_components/OwlCarousel/owl-carousel/owl.carousel.min.js",
+		"/D/git/daily/index.html",
+		"/D/git/optimo-2013/bower_components/fittext/fittext.js",
+		"/D/git/USPS-Responsive/sass/partials/_vars.scss",
+		"/D/git/USPS-Responsive/sass/partials/_ui-helpers.scss",
+		"/D/git/USPS-Responsive/bower_components/dojo/dojo.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flex:1;",
+			"flex:0 0;",
+			"flex-direction: column;",
+			"display: flex;",
+			"display:flex;",
+			"}",
+			"display:flex;",
+			"activit",
+			"backwards",
+			"forwards",
+			"50px",
+			"-8px",
+			"legals",
+			"dfsslide",
+			"$.cookie('pageLoaded'",
+			"dfs",
+			"html.back",
+			".app",
+			"body.webinar-page",
+			"dfss",
+			"button",
+			"webinar",
+			"button",
+			"198",
+			"titill",
+			"blog",
+			".bmp",
+			"   ",
+			"thumbnail",
+			"xml",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"click",
+			"auto",
+			" /></a>",
+			"<a href=\"#\"><img data-src=",
+			"1398493_351986894937424_1358337498_o.jpg",
+			"filllas",
+			"cottage/small/",
+			"cottage/",
+			"_mini",
+			".jpg",
+			"PasswordAuthentication",
+			"1.25",
+			"6s",
+			"1",
+			"75",
+			"5",
+			"3",
+			"0s",
+			"0.5",
+			"0.3s letter-spacing $ease-out-expo, ",
+			"transform",
+			"letter-spacing",
+			"000000",
+			"FFFFFF",
+			",\n",
+			"0",
+			"5",
+			", delay:0.1",
+			"stroke",
+			"0.05",
+			"0.1",
+			"span",
+			"3em",
+			"img src=",
+			"Anima",
+			"anima",
+			"hello",
+			"textfield",
+			"fade-in-from-left",
+			"collaps",
+			"4% 5% 4% 1",
+			"more-nav",
+			"all",
+			"exportTypeList.selection",
+			"writeFile",
+			"/a></p></div>",
+			"<div class=\"description\">",
+			"'+$('#view').width()*0.7+'",
+			";",
+			":",
+			"<a h",
+			";\n",
+			"generatedcontent",
+			"@include book",
+			"@include light",
+			"include ligh",
+			"arrow",
+			"</em>",
+			"<em>",
+			"</em>",
+			"<em>",
+			"/em>",
+			"em>",
+			"</em></a>",
+			"<strong>",
+			"dot-gri",
+			"<li",
+			"li",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			".png",
+			"0.1em"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@include display-flex;",
+			"body.page-id-1343",
+			"generatedcontent.fontface",
+			"@extend %book",
+			"@extend %light",
+			"<li class=\"menu-item\"><a href=\"\" ",
+			"<li class=\"sub-menu-item\"><a href=\"\">",
+			"lateX(4px",
+			"lateX(3px",
+			"</a></li>\n                  <li><a href=\"\">",
+			"<li><a href=\"\">",
+			"</li><li>",
+			"a href=\"\"",
+			"intratracheal",
+			"prescribinginfo.pdf#nameddest=DosingChart",
+			"<link href='css/style.css?nocache=1' rel='stylesheet' />",
+			"prescribinginfo.pdf#page=2",
+			"prescribinginfo.pdf#page=1",
+			"JhwJQdsJKfU",
+			"ZfdwBCxOwFI",
+			"multi",
+			"Data Discovery Alliance",
+			" {width: 0.001 * ",
+			"0.001",
+			"width:0.001px",
+			"01px * ",
+			"0.001px",
+			"0.001 *",
+			"</a></li>",
+			"<li><a>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index.html",
+					"settings":
+					{
+						"buffer_size": 1406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/index.js",
+					"settings":
+					{
+						"buffer_size": 7282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/sass/style.scss",
+					"settings":
+					{
+						"buffer_size": 1953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1234,
+								1234
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 1150,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										168,
+										181
+									],
+									[
+										481,
+										494
+									],
+									[
+										845,
+										858
+									],
+									[
+										948,
+										961
+									],
+									[
+										1089,
+										1102
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/html/home.html",
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/fonts/stylesheet.css",
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								357,
+								357
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "www/css/index.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 194.0
+	},
+	"replace":
+	{
+		"height": 153.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/git/MyPost-Landing/MyPost-Landing.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true
+}
